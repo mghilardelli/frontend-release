@@ -33,7 +33,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Login to GitHub Container Registry
-        run: echo ${{ secrets.GITHUB_TOKEN }} | docker login ghcr.io --username ${{ github.actor }} --password-stdin
+        run: echo ${{ secrets.RELEASE_PLEASE_TOKEN }} | docker login ghcr.io --username ${{ github.actor }} --password-stdin
       - name: Create container image
         run: docker build -t $IMAGE_REPO:$VERSION -t $IMAGE_REPO:latest .
         env:
