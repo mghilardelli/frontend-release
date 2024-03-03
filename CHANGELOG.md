@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/mghilardelli/frontend-release/compare/v1.0.0...v1.1.0) (2024-03-03)
+
+
+### Features
+
+* nginx ([90b94a1](https://github.com/mghilardelli/frontend-release/commit/90b94a12837d46b7fe60dbb02896973bda4d555d))
+
 ## 1.0.0 (2024-03-03)
 
 
