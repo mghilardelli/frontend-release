@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/mghilardelli/frontend-release/compare/v1.1.0...v1.2.0) (2024-03-03)
+
+
+### Features
+
+* fix dist ([3887263](https://github.com/mghilardelli/frontend-release/commit/3887263ec70bdd812949ecaa16f924f14d67984c))
+
 ## [1.1.0](https://github.com/mghilardelli/frontend-release/compare/v1.0.0...v1.1.0) (2024-03-03)
 
 
