@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-03-03)
+
+
+### Features
+
+* initial frontend ([21330bf](https://github.com/mghilardelli/frontend-release/commit/21330bf9b2053ec754a2a2450722da695f36a961))
+
 ## [0.2.0](https://github.com/mghilardelli/demo-release/compare/frontend-v0.1.0...frontend-v0.2.0) (2024-03-03)
 
 
